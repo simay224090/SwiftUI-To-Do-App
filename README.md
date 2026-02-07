@@ -16,10 +16,12 @@ Veriler cihazda saklanır (UserDefaults).
 
 ---
 
-## 📸 Ekran Görüntüleri
+## 📸 Ekran Görüntüleri ve Icon
 
 
 <p align="center">
+<img src="screenshots/todoicon.png" width="80">
+  
   <img src="screenshots/main1.png" width="250">
   <img src="screenshots/main.png" width="250">
   <img src="screenshots/edit.png" width="250">
