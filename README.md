@@ -20,8 +20,13 @@ Veriler cihazda saklanır (UserDefaults).
 
 
 <p align="center">
+  <img src="screenshots/main1.png" width="250">
   <img src="screenshots/main.png" width="250">
   <img src="screenshots/edit.png" width="250">
+  <img src="screenshots/delete.png" width="250">
+
+</p>
+
 </p>
 
 
