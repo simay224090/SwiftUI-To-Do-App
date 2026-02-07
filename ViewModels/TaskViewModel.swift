@@ -14,6 +14,8 @@ class TaskViewModel: ObservableObject {
     
     let saveKey: String = "to-do-tasks"
     
+    var allTasksCompleted: Bool { !tasks.isEmpty && tasks.allSatisfy { $0.isCompleted } }
+    
     
     
     func addTask(title: String) {
@@ -49,6 +51,15 @@ class TaskViewModel: ObservableObject {
                 tasks = savedTasks
             }
         }
+    
+    func updateTask(task: TaskItem, newTitle: String) {
+        if let index = tasks.firstIndex(where: { $0.id == task.id }) {
+            tasks[index].title = newTitle
+            saveTask(tasks)
+        }
+    }
+
+    
 
     }
 

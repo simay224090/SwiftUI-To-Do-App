@@ -1,6 +1,13 @@
 {
   "images" : [
     {
+      "filename" : "todoicon 1.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "filename" : "todoicon.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +19,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "todoicon 2.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -23,6 +31,7 @@
           "value" : "tinted"
         }
       ],
+      "filename" : "todoicon 3.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"

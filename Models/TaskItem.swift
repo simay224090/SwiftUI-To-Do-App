@@ -6,7 +6,7 @@
 //
 import Foundation
 
-struct TaskItem:Identifiable,Codable {
+struct TaskItem:Identifiable,Codable,Equatable {
     
     let id:UUID
     var title:String
