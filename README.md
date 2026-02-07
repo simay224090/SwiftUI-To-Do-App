@@ -19,7 +19,11 @@ Veriler cihazda saklanır (UserDefaults).
 ## 📸 Ekran Görüntüleri
 
 
-| ![Main](screenshots/main.png) | ![Edit](screenshots/edit.png) |
+<p align="center">
+  <img src="screenshots/main.png" width="250">
+  <img src="screenshots/edit.png" width="250">
+</p>
+
 
 
 ## 🛠️ Kullanılan Teknolojiler
